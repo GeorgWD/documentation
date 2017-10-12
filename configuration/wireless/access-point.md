@@ -2,7 +2,7 @@
 
 The Raspberry Pi can be used as a wireless access point, running a standalone network. This can be done using the inbuilt wireless features of the Raspberry Pi 3 or Raspberry Pi Zero W, or by using a suitable USB wireless dongle that supports access points. 
 
-Note that this documentation was tested on a Raspberry Pi 3, and it is possible that some USB dongles may need slight changes to their settings. If you are having trouble with a USB wireless dongle, please check the forums.
+Note that this documentation was tested on a Raspberry Pi 3 with raspbian whezzy, and it is possible that some USB dongles may need slight changes to their settings. If you are having trouble with a USB wireless dongle, please check the forums.
 
 To add a Raspberry Pi-based access point to an existing network, see [this section](#internet-sharing).
 
